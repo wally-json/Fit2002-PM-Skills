@@ -8,7 +8,7 @@ description: >
   (EDMF/ACS), and procurement. Use when choosing project methodology, managing risks, estimating costs,
   selecting leadership approach, resolving ethical dilemmas, revising for PM exams, or practising PM scenarios.
   Triggers on: "project management", "Scrum", "Agile", "risk register", "Stacey", "WBS", "MoSCoW", "EDMF",
-  "quiz", "温习", "revision", "roleplay", "角色扮演", "scenario".
+  "quiz", "revision", "roleplay", "scenario".
 ---
 
 # IT Project Management
@@ -32,7 +32,7 @@ User asks a PM question → route to the right framework → structured answer.
 | Vendor selection? | WSM | [CASES_REFERENCE.md](CASES_REFERENCE.md) |
 
 ### 2. Quiz Mode
-Trigger: user says "quiz", "温习", "revision", "MC", "multiple choice", "考试"
+Trigger: user says "quiz", "revision", "MC", "multiple choice"
 
 Workflow:
 1. Ask: which topic? (or "all")
@@ -44,7 +44,7 @@ Workflow:
 7. At end: show score summary (correct / total, weak areas)
 
 ### 3. Roleplay Mode
-Trigger: user says "roleplay", "角色扮演", "scenario", "情境"
+Trigger: user says "roleplay", "scenario"
 
 Workflow:
 1. Ask: which role? (PM / Scrum Master / Product Owner / Team Lead)

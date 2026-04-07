@@ -43,8 +43,8 @@ Once set up, use these trigger words:
 
 | You type | What happens |
 |---|---|
-| `quiz` or `温习` | Start a multiple-choice quiz |
-| `roleplay` or `角色扮演` | Enter a scenario-based exercise |
+| `quiz` | Start a multiple-choice quiz |
+| `roleplay` | Enter a scenario-based exercise |
 | Any PM question | Get a framework-driven answer |
 
 ## Quiz Mode
