@@ -128,16 +128,6 @@ Ask any PM question directly. The AI routes it to the right framework:
 
 This mode is useful for checking your reasoning on case study assignments or verifying framework application before submitting.
 
-## For Educators
-
-**In-class reinforcement.** After a lecture on risk management, have students run `quiz` on topic 4. Immediate feedback cements the concepts while they're fresh.
-
-**Tutorial discussion starters.** Project a roleplay scenario to the class. Let students debate their approach for 10 minutes, then run the roleplay live to compare their reasoning against the framework-based debrief.
-
-**Mock exam sessions.** Run the full 72-question quiz as a timed exercise. The score summary at the end highlights weak areas to target in the remaining revision time.
-
-**Assignment scaffolding.** Students working on case studies can use Decision Mode to verify they're applying the correct framework before writing up their analysis.
-
 ## Customising the Content
 
 All content is editable Markdown in the `project-management/` folder:
